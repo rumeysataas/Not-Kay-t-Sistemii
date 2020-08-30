@@ -1,0 +1,12 @@
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojAssemblyReference.cache
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Giris.resources
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.FrmOgretmenDetay.resources
+C:\Users\Rumeysa TAS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ÖgrenciKontrolSistemi.resources
